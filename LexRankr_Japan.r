@@ -262,3 +262,7 @@ my_sentenceSimil <- function (sentenceId, token, docId = NULL, sentencesAsDocs =
 #b <- "バナナ りんご みかん りんご ぶどう ぶどう さくらんぼ"
 #c <- "バナナ りんご りんご みかん バナナ ぶどう"
 #text = c(a, b, c)
+
+#LexRankr
+#https://github.com/AdamSpannbauer/lexRankr
+
