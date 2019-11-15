@@ -256,7 +256,6 @@ my_sentenceSimil <- function (sentenceId, token, docId = NULL, sentencesAsDocs =
 }
 
 
-#text = c("Testing the system. Second sentence for you.", "System testing the tidy documents df.",  "Documents will be parsed and lexranked.")
 
 #a <- "バナナ バナナ バナナ りんご みかん さくらんぼ さくらんぼ"
 #b <- "バナナ りんご みかん りんご ぶどう ぶどう さくらんぼ"
